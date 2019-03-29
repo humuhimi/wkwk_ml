@@ -2,9 +2,9 @@
 try machine learning wkwk series
 
 実行環境<br>
--EC2 Ubuntu Server 16.04 LTS (HVM), SSD Volume Type <br>
+EC2 Ubuntu Server 16.04 LTS (HVM), SSD Volume Type <br>
 セキュリティグループ
-HTTP TCP 80/カスタム TCP ルールTCP 8000 / SSH TCP 22 /カスタム TCP ルールTCP5000/HTTPS TCP 443
+HTTP TCP 80/カスタム TCP ルールTCP 8000 / SSH TCP 22 /カスタム TCP ルールTCP5000/HTTPS TCP 443<br>
 環境構築<br>
 -sudo apt-get update
 -sudo apt install python-pip python3-pip<br>
